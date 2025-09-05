@@ -1,8 +1,8 @@
 echo "MEUS ALIAS 1.0"
 
 
-alias baixa-projeto-sig=~/dev/baixa_projeto.sh
-alias atualiza-projeto-sig=~/dev/atualizar-branches.sh
+alias baixa-projeto-sig=~/baixa_projeto.sh
+alias atualiza-projeto-sig=~/atualizar-branches.sh
 
 # NVM - Node Version Manager
 export NVM_DIR="$HOME/.config/nvm"
@@ -13,7 +13,7 @@ nvm use v22.18.0
 
 
 
-alias composer=~/dev/composer/composer.phar
+alias composer=~/composer/composer.phar
 
 alias laravel=~/.config/composer/vendor/bin/laravel
 

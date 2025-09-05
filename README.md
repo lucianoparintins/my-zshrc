@@ -5,3 +5,10 @@ Arquivo com zshrc que uso em terminais linux com debian
     - NVM instalado
     - Laravel instalado
     - Composer instalado
+
+## Fonte
+ [https://github.com/tonsky/FiraCode]
+
+```
+apt install fonts-firacode 
+```
